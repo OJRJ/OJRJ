@@ -101,8 +101,8 @@ This is my resume, where all my work experience is.[my resume](https://read.cv/0
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:oscaj843@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  oscaj843-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
